@@ -19,7 +19,7 @@ Server
 File > Run & Build
 ```
 
-At **Built/Built.app**
+At **Build/Build.app**
 
 ![](doc/server-1.png)
 
