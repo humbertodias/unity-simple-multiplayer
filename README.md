@@ -1,8 +1,13 @@
-# Unity Simple Multiplayer - UNET
+# Unity Simple Multiplayer using UNET
 
 Result of the following tutorial 
 [Simple Multiplayer Game - Unity 5.3](https://www.youtube.com/playlist?list=PLwyZdDTyvucw5JhBMJxFwsYc1EbQYxr0G)
 
+UNET will be removed in 2021.
+
+![](doc/unet-deprecated.png)
+
+[FAQ](https://support.unity3d.com/hc/en-us/articles/360001252086-UNet-Deprecation-FAQ)
 
 # Pre requirements
 
