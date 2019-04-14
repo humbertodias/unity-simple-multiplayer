@@ -1,13 +1,12 @@
-# Unity Simple Multiplayer
+# Unity Simple Multiplayer - UNET
 
 Result of the following tutorial 
 [Simple Multiplayer Game - Unity 5.3](https://www.youtube.com/playlist?list=PLwyZdDTyvucw5JhBMJxFwsYc1EbQYxr0G)
 
 
-
 # Pre requirements
 
-1. Unity 2018.2+
+1. Unity 2019.2.0a11+
 
 # How to Play
 
